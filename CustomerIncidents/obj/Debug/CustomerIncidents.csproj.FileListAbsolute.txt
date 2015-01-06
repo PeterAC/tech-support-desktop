@@ -1,0 +1,18 @@
+C:\Users\3106909413\Documents\Visual Studio 2012\Projects\TechSupport\CustomerIncidents\bin\Debug\CustomerIncidents.exe.config
+C:\Users\3106909413\Documents\Visual Studio 2012\Projects\TechSupport\CustomerIncidents\bin\Debug\CustomerIncidents.exe
+C:\Users\3106909413\Documents\Visual Studio 2012\Projects\TechSupport\CustomerIncidents\bin\Debug\CustomerIncidents.pdb
+C:\Users\3106909413\Documents\Visual Studio 2012\Projects\TechSupport\CustomerIncidents\obj\Debug\CustomerIncidents.csprojResolveAssemblyReference.cache
+C:\Users\3106909413\Documents\Visual Studio 2012\Projects\TechSupport\CustomerIncidents\obj\Debug\CustomerIncidents.frmCustomerIncidents.resources
+C:\Users\3106909413\Documents\Visual Studio 2012\Projects\TechSupport\CustomerIncidents\obj\Debug\CustomerIncidents.Properties.Resources.resources
+C:\Users\3106909413\Documents\Visual Studio 2012\Projects\TechSupport\CustomerIncidents\obj\Debug\CustomerIncidents.csproj.GenerateResource.Cache
+C:\Users\3106909413\Documents\Visual Studio 2012\Projects\TechSupport\CustomerIncidents\obj\Debug\CustomerIncidents.exe
+C:\Users\3106909413\Documents\Visual Studio 2012\Projects\TechSupport\CustomerIncidents\obj\Debug\CustomerIncidents.pdb
+C:\Users\Kupo\Documents\Programs\TechSuppor(S3)\TechSupport\CustomerIncidents\bin\Debug\CustomerIncidents.exe.config
+C:\Users\Kupo\Documents\Programs\TechSuppor(S3)\TechSupport\CustomerIncidents\obj\Debug\CustomerIncidents.exe
+C:\Users\Kupo\Documents\Programs\TechSuppor(S3)\TechSupport\CustomerIncidents\obj\Debug\CustomerIncidents.pdb
+C:\Users\Kupo\Documents\Programs\TechSuppor(S3)\TechSupport\CustomerIncidents\bin\Debug\CustomerIncidents.exe
+C:\Users\Kupo\Documents\Programs\TechSuppor(S3)\TechSupport\CustomerIncidents\bin\Debug\CustomerIncidents.pdb
+C:\Users\Kupo\Documents\Programs\TechSuppor(S3)\TechSupport\CustomerIncidents\obj\Debug\CustomerIncidents.csprojResolveAssemblyReference.cache
+C:\Users\Kupo\Documents\Programs\TechSuppor(S3)\TechSupport\CustomerIncidents\obj\Debug\CustomerIncidents.frmCustomerIncidents.resources
+C:\Users\Kupo\Documents\Programs\TechSuppor(S3)\TechSupport\CustomerIncidents\obj\Debug\CustomerIncidents.Properties.Resources.resources
+C:\Users\Kupo\Documents\Programs\TechSuppor(S3)\TechSupport\CustomerIncidents\obj\Debug\CustomerIncidents.csproj.GenerateResource.Cache

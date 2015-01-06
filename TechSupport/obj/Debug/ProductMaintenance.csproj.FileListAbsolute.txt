@@ -1,0 +1,11 @@
+C:\Users\3106909413\Documents\Visual Studio 2012\Projects\TechSupport\TechSupport\bin\Debug\TechSupport.mdf
+C:\Users\3106909413\Documents\Visual Studio 2012\Projects\TechSupport\TechSupport\bin\Debug\TechSupport_log.ldf
+C:\Users\3106909413\Documents\Visual Studio 2012\Projects\TechSupport\TechSupport\bin\Debug\TechSupport.exe.config
+C:\Users\3106909413\Documents\Visual Studio 2012\Projects\TechSupport\TechSupport\bin\Debug\TechSupport.exe
+C:\Users\3106909413\Documents\Visual Studio 2012\Projects\TechSupport\TechSupport\bin\Debug\TechSupport.pdb
+C:\Users\3106909413\Documents\Visual Studio 2012\Projects\TechSupport\TechSupport\obj\Debug\ProductMaintenance.csprojResolveAssemblyReference.cache
+C:\Users\3106909413\Documents\Visual Studio 2012\Projects\TechSupport\TechSupport\obj\Debug\TechSupport.frmProductMaintenance.resources
+C:\Users\3106909413\Documents\Visual Studio 2012\Projects\TechSupport\TechSupport\obj\Debug\TechSupport.Properties.Resources.resources
+C:\Users\3106909413\Documents\Visual Studio 2012\Projects\TechSupport\TechSupport\obj\Debug\ProductMaintenance.csproj.GenerateResource.Cache
+C:\Users\3106909413\Documents\Visual Studio 2012\Projects\TechSupport\TechSupport\obj\Debug\TechSupport.exe
+C:\Users\3106909413\Documents\Visual Studio 2012\Projects\TechSupport\TechSupport\obj\Debug\TechSupport.pdb

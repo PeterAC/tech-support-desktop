@@ -1,0 +1,9 @@
+C:\Users\3106909413\Documents\Visual Studio 2012\Projects\TechSupport\TechnicianMaintenance\bin\Debug\TechnicianMaintenance.exe.config
+C:\Users\3106909413\Documents\Visual Studio 2012\Projects\TechSupport\TechnicianMaintenance\bin\Debug\TechnicianMaintenance.exe
+C:\Users\3106909413\Documents\Visual Studio 2012\Projects\TechSupport\TechnicianMaintenance\bin\Debug\TechnicianMaintenance.pdb
+C:\Users\3106909413\Documents\Visual Studio 2012\Projects\TechSupport\TechnicianMaintenance\obj\Debug\TechnicianMaintenance.frmTechnicianMaintenance.resources
+C:\Users\3106909413\Documents\Visual Studio 2012\Projects\TechSupport\TechnicianMaintenance\obj\Debug\TechnicianMaintenance.Properties.Resources.resources
+C:\Users\3106909413\Documents\Visual Studio 2012\Projects\TechSupport\TechnicianMaintenance\obj\Debug\TechnicianMaintenance.csproj.GenerateResource.Cache
+C:\Users\3106909413\Documents\Visual Studio 2012\Projects\TechSupport\TechnicianMaintenance\obj\Debug\TechnicianMaintenance.exe
+C:\Users\3106909413\Documents\Visual Studio 2012\Projects\TechSupport\TechnicianMaintenance\obj\Debug\TechnicianMaintenance.pdb
+C:\Users\3106909413\Documents\Visual Studio 2012\Projects\TechSupport\TechnicianMaintenance\obj\Debug\TechnicianMaintenance.csprojResolveAssemblyReference.cache
